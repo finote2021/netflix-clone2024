@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/netflix-clone2024/static/css/main.46e97ceb.css",
+    "main.js": "/netflix-clone2024/static/js/main.e2347ba0.js",
+    "reactPlayerYouTube.js": "/netflix-clone2024/static/js/reactPlayerYouTube.da719b32.chunk.js",
+    "reactPlayerSoundCloud.js": "/netflix-clone2024/static/js/reactPlayerSoundCloud.4cf67698.chunk.js",
+    "reactPlayerVimeo.js": "/netflix-clone2024/static/js/reactPlayerVimeo.60315c17.chunk.js",
+    "reactPlayerMux.js": "/netflix-clone2024/static/js/reactPlayerMux.959a870f.chunk.js",
+    "reactPlayerFacebook.js": "/netflix-clone2024/static/js/reactPlayerFacebook.4ebf9305.chunk.js",
+    "reactPlayerStreamable.js": "/netflix-clone2024/static/js/reactPlayerStreamable.42567689.chunk.js",
+    "reactPlayerWistia.js": "/netflix-clone2024/static/js/reactPlayerWistia.42060b2f.chunk.js",
+    "reactPlayerTwitch.js": "/netflix-clone2024/static/js/reactPlayerTwitch.2802e436.chunk.js",
+    "reactPlayerDailyMotion.js": "/netflix-clone2024/static/js/reactPlayerDailyMotion.7ab94490.chunk.js",
+    "reactPlayerMixcloud.js": "/netflix-clone2024/static/js/reactPlayerMixcloud.4f9e6d8e.chunk.js",
+    "reactPlayerVidyard.js": "/netflix-clone2024/static/js/reactPlayerVidyard.4a19afcd.chunk.js",
+    "reactPlayerKaltura.js": "/netflix-clone2024/static/js/reactPlayerKaltura.156a5c03.chunk.js",
+    "reactPlayerFilePlayer.js": "/netflix-clone2024/static/js/reactPlayerFilePlayer.f69bd87e.chunk.js",
+    "reactPlayerPreview.js": "/netflix-clone2024/static/js/reactPlayerPreview.be3b3764.chunk.js",
+    "index.html": "/netflix-clone2024/index.html",
+    "main.46e97ceb.css.map": "/netflix-clone2024/static/css/main.46e97ceb.css.map",
+    "main.e2347ba0.js.map": "/netflix-clone2024/static/js/main.e2347ba0.js.map",
+    "reactPlayerYouTube.da719b32.chunk.js.map": "/netflix-clone2024/static/js/reactPlayerYouTube.da719b32.chunk.js.map",
+    "reactPlayerSoundCloud.4cf67698.chunk.js.map": "/netflix-clone2024/static/js/reactPlayerSoundCloud.4cf67698.chunk.js.map",
+    "reactPlayerVimeo.60315c17.chunk.js.map": "/netflix-clone2024/static/js/reactPlayerVimeo.60315c17.chunk.js.map",
+    "reactPlayerMux.959a870f.chunk.js.map": "/netflix-clone2024/static/js/reactPlayerMux.959a870f.chunk.js.map",
+    "reactPlayerFacebook.4ebf9305.chunk.js.map": "/netflix-clone2024/static/js/reactPlayerFacebook.4ebf9305.chunk.js.map",
+    "reactPlayerStreamable.42567689.chunk.js.map": "/netflix-clone2024/static/js/reactPlayerStreamable.42567689.chunk.js.map",
+    "reactPlayerWistia.42060b2f.chunk.js.map": "/netflix-clone2024/static/js/reactPlayerWistia.42060b2f.chunk.js.map",
+    "reactPlayerTwitch.2802e436.chunk.js.map": "/netflix-clone2024/static/js/reactPlayerTwitch.2802e436.chunk.js.map",
+    "reactPlayerDailyMotion.7ab94490.chunk.js.map": "/netflix-clone2024/static/js/reactPlayerDailyMotion.7ab94490.chunk.js.map",
+    "reactPlayerMixcloud.4f9e6d8e.chunk.js.map": "/netflix-clone2024/static/js/reactPlayerMixcloud.4f9e6d8e.chunk.js.map",
+    "reactPlayerVidyard.4a19afcd.chunk.js.map": "/netflix-clone2024/static/js/reactPlayerVidyard.4a19afcd.chunk.js.map",
+    "reactPlayerKaltura.156a5c03.chunk.js.map": "/netflix-clone2024/static/js/reactPlayerKaltura.156a5c03.chunk.js.map",
+    "reactPlayerFilePlayer.f69bd87e.chunk.js.map": "/netflix-clone2024/static/js/reactPlayerFilePlayer.f69bd87e.chunk.js.map",
+    "reactPlayerPreview.be3b3764.chunk.js.map": "/netflix-clone2024/static/js/reactPlayerPreview.be3b3764.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.46e97ceb.css",
+    "static/js/main.e2347ba0.js"
+  ]
+}
